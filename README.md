@@ -1,5 +1,5 @@
 This is data analysis task that was given to my friend who is finishing his master's degree in data analysis. 
-I agreed to help him out with this task because it was a possibility to learn something new to me.
+I agreed to help him out with this task because it was a possibility to learn something new.
 
 The whole code is located in /main.py file. It is used to integrate tables with exchange rates from /data repository.
 
